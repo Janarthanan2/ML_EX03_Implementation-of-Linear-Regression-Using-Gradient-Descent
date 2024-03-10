@@ -64,17 +64,19 @@ print("Prediction value:",pre)
 ## Output:
 
 #### Data Info:
-<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/707d5cd8-6b43-4502-86be-371ff81d0520" width=50%>
+<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/707d5cd8-6b43-4502-86be-371ff81d0520" width=40%>
 
 #### X and Y Values:
-<img src="">
+<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/4464d4e7-81bc-4e22-af54-53d17d047038" width=25%>
+<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/5760c007-55a2-40d2-971e-c2d97e35a40d">
 
 
 #### X and Y Scaled:
-<img src="">
+<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/7c130ed4-f795-40a5-9b3c-f655e455def5" width=35%>
+<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/608f89a5-6034-4bc2-8e18-0c4929ef2809">
 
 #### Predicted Value:
-<img src="">
+<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/50426660-f62a-4864-9ad6-499c8012f489">
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
