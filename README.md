@@ -37,7 +37,7 @@ def linear_regression(X1, y, learning_rate = 0.01, num_iters = 100):
         theta -= learning_rate * (1/len(X1)) * X.T.dot(errors)
     return theta
 
-data = pd.read_csv(r"C:\Users\SEC\OneDrive\Documents\Introduction to Machine Learning\Ex03\50_Startups.csv")
+data = pd.read_csv("..\Ex03\50_Startups.csv")
 data.head()
 
 X = data.iloc[1:, :-2].values
