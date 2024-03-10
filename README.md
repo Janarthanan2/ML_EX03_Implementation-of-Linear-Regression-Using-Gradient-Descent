@@ -64,7 +64,7 @@ print("Prediction value:",pre)
 ## Output:
 
 #### Data Info:
-<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/707d5cd8-6b43-4502-86be-371ff81d0520">
+<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/707d5cd8-6b43-4502-86be-371ff81d0520" width=50%>
 
 #### X and Y Values:
 <img src="">
