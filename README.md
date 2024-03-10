@@ -62,8 +62,19 @@ pre = scaler.inverse_transform(prediction)
 print("Prediction value:",pre)
 ```
 ## Output:
-![linear regression using gradient descent](sam.png)
 
+#### Data Info:
+<img src="https://github.com/Janarthanan2/ML_EX03_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393515/707d5cd8-6b43-4502-86be-371ff81d0520">
+
+#### X and Y Values:
+<img src="">
+
+
+#### X and Y Scaled:
+<img src="">
+
+#### Predicted Value:
+<img src="">
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
